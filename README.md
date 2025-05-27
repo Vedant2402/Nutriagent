@@ -2,6 +2,8 @@
 
 # Nutriagent
 
+### Live Demo -> https://nutriagent.netlify.app/
+
 # 🧠 AI-Powered Diet Guide
 
 An intelligent wellness assistant that helps users set personal health goals—such as building muscle, achieving glowing skin, aging healthily, or managing health conditions—and get customized diet plans using AI. The future scope includes **agentic AI** that can **place supplement or grocery orders** based on personalized nutrition needs.
