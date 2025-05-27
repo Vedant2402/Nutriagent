@@ -161,6 +161,33 @@ An intelligent wellness assistant that helps users set personal health goals—s
 
 ---
 
+## Screenshot - 
+
+### Home -
+![Screenshot 2025-05-26 220635](https://github.com/user-attachments/assets/82876bc5-36cc-4cf2-af35-90a21df4fa4e)
+![Screenshot 2025-05-26 220651](https://github.com/user-attachments/assets/a444a600-3419-45fa-8567-da9705640a6a)
+
+### Goals -
+![Screenshot 2025-05-26 220723](https://github.com/user-attachments/assets/04155b51-c238-4fbb-bdf0-1cfda7c244b0)
+![Screenshot 2025-05-26 220744](https://github.com/user-attachments/assets/3d197577-0ba6-4b5a-8099-05643c4ec060)
+![Screenshot 2025-05-26 220826](https://github.com/user-attachments/assets/6b64f38c-6da8-492e-9e2d-2defce89eded)
+
+### Diet Plans -
+![Screenshot 2025-05-26 220840](https://github.com/user-attachments/assets/e361e221-bbcd-49b2-89cd-f8c7ed81c8ae)
+![Screenshot 2025-05-26 220855](https://github.com/user-attachments/assets/4c30da60-0e9a-42b5-b122-eee65ae182a1)
+
+![Screenshot 2025-05-26 220920](https://github.com/user-attachments/assets/acda8d28-7006-49c5-b859-d827b05371ed)
+![Screenshot 2025-05-26 220938](https://github.com/user-attachments/assets/7a9a2594-b0ee-4703-8b89-4c82d65d7000)
+![Screenshot 2025-05-26 220950](https://github.com/user-attachments/assets/3398e93a-7eca-43c4-8e88-df812ab47775)
+![Screenshot 2025-05-26 220957](https://github.com/user-attachments/assets/9cfb7c6f-e2ad-46e2-8274-3a23c2738fbd)
+![Screenshot 2025-05-26 221005](https://github.com/user-attachments/assets/964acaaf-1235-4f76-a6eb-0979093bea43)
+
+### Profile - 
+![Screenshot 2025-05-26 221036](https://github.com/user-attachments/assets/9fb6c5e6-6418-412e-8964-dd528657bce4)
+
+
+---
+
 ## 📄 License
 
 MIT License – feel free to use and modify!
